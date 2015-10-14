@@ -1,0 +1,9 @@
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\bin\Debug\ColdSpot.exe.config
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\bin\Debug\ColdSpot.exe
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\bin\Debug\ColdSpot.pdb
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Debug\ColdSpot.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Debug\ColdSpot.Form1.resources
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Debug\ColdSpot.Properties.Resources.resources
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Debug\ColdSpot.csproj.GenerateResource.Cache
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Debug\ColdSpot.exe
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Debug\ColdSpot.pdb

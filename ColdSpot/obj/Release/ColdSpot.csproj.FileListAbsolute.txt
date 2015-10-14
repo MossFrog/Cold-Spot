@@ -1,0 +1,8 @@
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\bin\Release\ColdSpot.exe.config
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\bin\Release\ColdSpot.exe
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\bin\Release\ColdSpot.pdb
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Release\ColdSpot.Form1.resources
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Release\ColdSpot.Properties.Resources.resources
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Release\ColdSpot.csproj.GenerateResource.Cache
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Release\ColdSpot.exe
+C:\Users\A\Documents\Visual Studio 2012\ColdSpot\ColdSpot\obj\Release\ColdSpot.pdb
