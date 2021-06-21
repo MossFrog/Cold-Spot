@@ -15,5 +15,3 @@ This software requires Microsoft .NET framework.
 4. Start the hostednetwork.
 
 5. From Network and Sharing center enable internet connection sharing with the desired connection.
-
--- Programmed by Kaan Özçelik --
